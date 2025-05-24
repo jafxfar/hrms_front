@@ -13,7 +13,7 @@ function smoothScroll(id) {
 
 <template>
     <a class="flex items-center" href="#">
-        <svg viewBox="0 0 54 40" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-12 mr-2">
+        <!-- <svg viewBox="0 0 54 40" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-12 mr-2">
             <path
                 fill-rule="evenodd"
                 clip-rule="evenodd"
@@ -29,8 +29,8 @@ function smoothScroll(id) {
                     fill="var(--primary-color)"
                 />
             </g>
-        </svg>
-        <span class="text-surface-900 dark:text-surface-0 font-medium text-2xl leading-normal mr-20">SAKAI</span>
+        </svg> -->
+        <span class="text-surface-900 dark:text-surface-0 font-medium text-2xl leading-normal mr-20">HRMS</span>
     </a>
     <Button
         class="lg:!hidden"
